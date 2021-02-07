@@ -1,6 +1,9 @@
 # MarsRoverGame_Project
 Sabanci University Fall 2020-2021 Term CS405 3D Mars Rover Collusion Project 
 
+In this Mars Rover Game, I used OpenGL which is a cross-language, cross-platform application programming interface for rendering 2D and 3D vector graphics. Also in the project I used GLFW 3.3.2 OpenGL library. For OpenGL loading library (OpenGL function loader) I used GLAD.
+Also you need glm to run the game.
+
 To play the game:
 
 UP, DOWN, RIGHT, LEFT buttons of the keyboard move the rover and the camera moves with the rover.
